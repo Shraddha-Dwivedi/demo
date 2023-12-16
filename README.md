@@ -1,4 +1,4 @@
 # demo
 This is my first GitHub Repository
 <br>
-Author - Shraddha Dwivedi
+Author - Shraddha Dwivedi (MSC Data Science & Artificial Intelligence)
